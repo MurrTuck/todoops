@@ -18,8 +18,13 @@ class App extends Component {
       },
       {
         id: 3,
-        title: 'Finish To Do App',
+        title: 'Finish To-Do App',
         completed: false
+      },
+      {
+        id: 4,
+        title: 'Testing',
+        completed: true
       },
     ]
   }
