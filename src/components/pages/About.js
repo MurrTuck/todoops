@@ -1,5 +1,4 @@
 import React from 'react'
-import { deprecate } from 'util';
 
 export default function About() {
     return (
